@@ -5,6 +5,7 @@ DOMAIN: DATA ANALYTICS
 DURATION: JULY TO AUGUST2024
 
 project: PREDICTIVE MODELING WITH LINEAR REGRESSION
+[Screenshot 2024-07-21 120544](https://github.com/user-attachments/assets/162955d9-69bc-40ee-9ee9-fba15eaf266a)
 
 objective:
 
